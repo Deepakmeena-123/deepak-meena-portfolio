@@ -1,73 +1,67 @@
-# React + TypeScript + Vite
+# Deepak Meena | Software Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio showcasing my skills, experience, projects, achievements, and journey as a Computer Science student and software developer.
 
-Currently, two official plugins are available:
+## 🌐 Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://deepak-meena-portfolio.onrender.com
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm **Deepak Meena**, a Computer Science and Engineering student at **IIITDM Jabalpur**.
 
-## Expanding the ESLint configuration
+I'm interested in **Full-Stack Development, Backend Engineering, AI-powered applications, and Data Structures & Algorithms**. I enjoy building practical applications and continuously improving my problem-solving and software development skills.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🛠️ Tech Stack
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Node.js
+- Express.js
+- Python
+- Django
+- MongoDB
+- PostgreSQL
+- C++
+- Git & GitHub
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## ✨ Portfolio Highlights
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- Responsive modern UI
+- Interactive animations
+- Professional experience
+- Technical skills
+- Selected projects
+- Competitive programming achievements
+- Certifications
+- GitHub and professional profiles
+- Contact information
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 📬 Connect With Me
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+**GitHub:**  
+https://github.com/Deepakmeena-123
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+**LinkedIn:**  
+https://www.linkedin.com/in/deepak-meena-a28848372/
+
+**LeetCode:**  
+https://leetcode.com/u/Deepakm_30/
+
+**Codeforces:**  
+https://codeforces.com/profile/Deepu_30/
+
+**CodeChef:**  
+https://www.codechef.com/users/witty_halo_43
+
+**Email:**  
+meenadeepak0899@gmail.com
+
+---
+
+### 🚀 Built with React, TypeScript & Vite
+
+**© Deepak Meena**
