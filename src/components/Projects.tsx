@@ -851,8 +851,6 @@ function FeaturedProjectCard({
   inView: boolean;
   reduceMotion: boolean | null;
 }) {
-  const Icon = project.icon;
-
   return (
     <motion.article
       initial={{
